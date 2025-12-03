@@ -11,7 +11,7 @@
 - **Role:** Full-Stack Developer, Web Designer, Publisher
 - **Location:** Seoul, South Korea
 - **Email:** aa10542510@gmail.com
-- **Portfolio:** [🌐 웹사이트 바로가기](https://ljy9386.github.io/alephstudio/public/html/index.html) | [📝 노션 이력서](https://www.notion.so/UX-UI-Web-Designer-Portfolio-ALEPHSTUDIO-227d195793fe80e68d75cd8e272a6b4e)
+- **Portfolio:** [🌐 웹사이트 바로가기](https://ljy9386.github.io/alephstudio/public/html/index.html) | [📝 프로젝트 상세 아카이브](https://www.notion.so/UX-UI-Web-Designer-Portfolio-ALEPHSTUDIO-227d195793fe80e68d75cd8e272a6b4e)
 
 ---
 
