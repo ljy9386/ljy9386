@@ -80,7 +80,6 @@
 * **DIDIM:** 디딤잔디 랜딩페이지 및 견적 시스템
 * **Étoile:** 패션 매거진 웹 디자인
 * **OBO / VOILE / VERVE:** 디자인 에이전시 및 브랜드 웹사이트 구축
-* **단양 여권 서비스 (Team):** 지역 특화 여권 서비스 백엔드 개발
 * ... and more in Portfolio.
 
 </details>
