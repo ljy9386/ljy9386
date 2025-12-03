@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:130F40&height=220&section=header&text=ALEPH%20STUDIO&fontSize=70&fontAlignY=35&desc=Brand%20Designer%20%26%20Full-Stack%20Developer&descAlignY=60&descAlign=50" width="100%" alt="header" />
-</div>
+</div> -->
 
 <div align="center">
   <h3>👋 Hi there! I'm a Developer who loves <span style="color: #61DAFB;">Design</span> & <span style="color: #3ECF8E;">Code</span>.</h3>
