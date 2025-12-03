@@ -3,7 +3,7 @@
 </div> -->
 
 <div align="center">
-  <h3>👋 Hi there! I'm a Full Stack Developer  <span style="color: #61DAFB;">ALEPH</span> & <span style="color: #3ECF8E;">STUDIO</span>.</h3>
+  <h3>👋 Hi there! I'm a Full Stack Developer  <span style="color: #61DAFB;">ALEPH</span><span style="color: #3ECF8E;">STUDIO</span>.</h3>
   <p>I specialize in building high-quality web applications with a focus on seamless UI/UX and robust backend architecture.</p>
 
   <a href="https://ljy9386.github.io/alephstudio/public/html/index.html">
